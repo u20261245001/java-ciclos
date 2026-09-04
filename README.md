@@ -1,7 +1,7 @@
 # java-ciclos
 
 ## Martin Francisco Alba Delgado, 
-##u20261245001, 
+## u20261245001, 
 ## Tecnología en Desarrollo de Software, 
 ## 4/09/2026
 --
